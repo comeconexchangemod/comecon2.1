@@ -25,6 +25,8 @@ The submitted `COMECON_Client.exe` (v2.1.0.0) binary received a **“Not malware
 
 *Note on scope:* This result concerns the submitted file sample. It is not a Microsoft endorsement, a code-signing certificate (SmartScreen reputation is tracked separately by Windows), or an independent third-party audit of the entire project.
 
+| **v2.2 (`2.2.0.0`)** *(Latest)* | `COMECON_Client.exe` | `14,791,168` | `6fe85f3f62687f76f308e7cc42905200236b3e304f59fb67db290e8d19bc387d` | 2026-11-01 *(WDSI ID: `abcee599-7b1b-41e0-af90-03e23ef32f51`)* |
+
 ---
 
 ## 2. Scope of the Published Code Excerpt (`security_and_updater_excerpt.py`)
